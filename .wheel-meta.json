@@ -1,0 +1,22 @@
+{
+  "wheel_id": 935,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-153",
+  "project": "mortgage-broker-ipswich-red-flags-deace6d82b164ea36c955dbd326f3",
+  "parent_t1_ref": "homeloanbrokeripswich-012",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich red flags",
+  "intended_url": "https://sitesau.github.io/homeloanbrokeripswich-153/",
+  "tier": "T2",
+  "writeback_nonce": "a88747c86fb53f86",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-ipswich-homeloanbrokeripswich-012/",
+      "anchor": "this mortgage broker ipswich resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
